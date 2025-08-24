@@ -18,7 +18,7 @@ CueAI is a modern React + TypeScript SPA with Supabase backend. It provides 40+ 
 ## 📦 Setup
 1) Clone & install
 ```bash
-git clone <https://github.com/UsamaAli-PK/CUEAI>
+git clone https://github.com/UsamaAli-PK/CUEAI
 cd CueAI
 npm install
 ```
